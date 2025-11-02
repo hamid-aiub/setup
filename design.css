@@ -1,0 +1,44 @@
+body {
+    background-color: beige;
+}
+
+h1 {
+    background-color: lightsalmon;
+}
+
+.center {
+    text-align: center;
+}
+
+h1.font-weight {
+    color: white;
+    font-family: camrbria;
+    font-size: 30px;
+}
+
+#paragraph {
+    font-size: 20px;
+    color: green;
+    font-weight: bold;
+    text-align: end;
+}
+
+h1,
+p {
+    background-color: lightseagreen;
+}
+
+button {
+    font-size: 20px;
+    background-color: lightblue;
+    border-radius: 5px;
+    border-color: lightblue;
+    padding: 10px 20px 10px 20px;
+
+
+}
+
+div {
+    display: flex;
+    justify-content: center;
+}
